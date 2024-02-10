@@ -1,0 +1,26 @@
+.mofiz~ p{
+    color: red;
+}
+#box{
+    width: 100px;
+    height: 100px;
+    /* background-color: gray; */
+    /* border: dotted 10px green; */
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: red;
+    border-bottom: 0;
+    border-left: 0;
+    border-right:; */
+    /* border-top-width: 5px;
+    border-top-style: solid;
+    border-top-color: red; */
+    /* border-left: 10px solid green; */
+    border: 5px solid red;
+    margin-left: 300px;
+    margin-right: 200px;
+}
+h1{
+    /* margin-bottom: 500px; */
+    margin:200 300 4000 5000;
+}
